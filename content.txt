@@ -7,3 +7,5 @@ Commit 3 -- test reset (after reset
 ---------------------------------------------------
 Rebase function @@
 test
+one
+two

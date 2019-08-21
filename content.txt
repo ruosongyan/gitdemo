@@ -7,5 +7,3 @@ Commit 3 -- test reset (after reset tt
 ---------------------------------------------------
 Rebase function @@
 test
-one
-two

@@ -9,3 +9,4 @@ Rebase function @@
 test
 one
 two
+three

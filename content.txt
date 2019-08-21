@@ -7,3 +7,5 @@ Commit 3 -- test reset (after reset tt empty cha
 ---------------------------------------------------
 Rebase function @@
 test
+one
+two

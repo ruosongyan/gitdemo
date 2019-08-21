@@ -3,7 +3,7 @@ Task 2 Revert and Reset!
 Task 3 Revert on different file
 Commit 1 -- test reset
 Commit 2 -- test reset (after reset
-Commit 3 -- test reset (after reset tt
+Commit 3 -- test reset (after reset tt empty char
 ---------------------------------------------------
 Rebase function @@
 test

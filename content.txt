@@ -5,4 +5,4 @@ Commit 1 -- test reset
 Commit 2 -- test reset (after reset
 Commit 3 -- test reset (after reset
 ---------------------------------------------------
-Rebase function @@
+Rebase function @@@

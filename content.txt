@@ -4,3 +4,4 @@ Task 3 Revert on different file
 Commit 1 -- test reset
 Commit 2 -- test reset (after reset
 ---------------------------------------------------
+Add 1 --- one line

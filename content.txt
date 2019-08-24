@@ -5,3 +5,4 @@ Commit 1 -- test reset
 Commit 2 -- test reset (after reset
 ---------------------------------------------------
 Add 1 --- one line
+Add 2 --- two line

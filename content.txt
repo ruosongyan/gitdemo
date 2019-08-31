@@ -5,3 +5,6 @@ Commit 1 -- test reset
 Commit 2 -- test reset (after reset
 ---------------------------------------------------
 master add 1 --- master add one
+---------------------------------------------------
+nonsense commit nonsense commit nonsense commit
+no-ff commit

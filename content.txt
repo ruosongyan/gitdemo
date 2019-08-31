@@ -9,3 +9,5 @@ master add 1 --- master add one
 nonsense commit nonsense commit nonsense commit
 no-ff commit
 I am doing a new commit
+add something,commit but not push and change
+

@@ -12,3 +12,4 @@ master change : I did a new commit
 master change : add something,commit but not push and change
 ---------------------------------------------------
 feature change :
+feature change : rebase change

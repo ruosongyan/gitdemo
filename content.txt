@@ -6,4 +6,4 @@ Commit 2 -- test reset (after reset
 ---------------------------------------------------
 master add 1 --- master add one
 ---------------------------------------------------
-nonsense commit
+nonsense commit nonsense commit

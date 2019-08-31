@@ -9,6 +9,6 @@ master add 1 --- master add one
 nonsense commit nonsense commit nonsense commit
 no-ff commit
 master change : I did a new commit
-add something,commit but not push and change
+master change : add something,commit but not push and change
 ---------------------------------------------------
 feature change :

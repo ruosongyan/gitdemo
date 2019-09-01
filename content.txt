@@ -14,7 +14,7 @@ master change : add something,commit but not push and change
 feature change :
 feature change : rebase change
 feature change : reabse change 2
-master change test lint lint lint lint
+master change test lint lint lint
 ---------------------------------------------------
 commit one
 c2

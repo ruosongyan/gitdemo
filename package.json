@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "pushall": "git add . & git commit -m $CM & git push",
-    "echo": "echo $TEST"
+    "ac": "git add . & git commit -m",
+    "echo": "echo $TEXT"
   },
   "repository": {
     "type": "git",

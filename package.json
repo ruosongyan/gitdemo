@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/ruosongyan/gitdemo/issues"
   },
-  "homepage": "https://github.com/ruosongyan/gitdemo#readme"
+  "homepage": "https://github.com/ruosongyan/gitdemo#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^8.1.0",
+    "@commitlint/config-conventional": "^8.1.0"
+  }
 }

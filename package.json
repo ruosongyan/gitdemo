@@ -8,6 +8,11 @@
     "ac": "git add . & git commit -m",
     "echo": "echo $TEXT"
   },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -e $GIT_PARAMS"
+    }
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ruosongyan/gitdemo.git"
@@ -21,5 +26,8 @@
   "devDependencies": {
     "@commitlint/cli": "^8.1.0",
     "@commitlint/config-conventional": "^8.1.0"
+  },
+  "dependencies": {
+    "husky": "^4.0.0-beta.1"
   }
 }

@@ -5,9 +5,6 @@ commit 3
 commit 4
 ----------------------------
 commit 1
-<<<<<<< HEAD
 commit 2
 commit little change
-=======
-commit 2
->>>>>>> 50e5d6cc43a20c149ad0e38da2eb116802f589ed
+

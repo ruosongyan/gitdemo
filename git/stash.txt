@@ -1,2 +1,5 @@
+git stash branch : 
+  如果你要stash pop的内容与当前分支不在同一个commit,那么stash branch命令会新建一个分支
+  然后基于你要pop内容的commit,应用到新分支上
 git stash two
 git stash three

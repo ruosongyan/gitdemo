@@ -1,3 +1,4 @@
 git stash two
 git stash four
 git merge origin 1
+git pull origin 1
